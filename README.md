@@ -1,4 +1,4 @@
-# Algorithm-Visualizer
+# Visualize-Your-Algo
 
 ### <a href = "https://algorithm-visualizer-self.vercel.app/"> Click here </a> to view website
 
